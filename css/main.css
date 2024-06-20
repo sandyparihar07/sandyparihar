@@ -3880,7 +3880,7 @@ form textarea:required:valid {
 .tools-cards__card {
   position: relative;
   width: 100%;
-  padding: 3rem;
+  padding: 2rem;
   background-color: var(--base);
   border: 1px solid var(--stroke-elements);
   -moz-border-radius: var(--_radius-xl);
