@@ -2,6 +2,9 @@
 
 $method = $_SERVER['REQUEST_METHOD'];
 
+// Set your email address here
+$admin_email = 'parihar.sandy2010@gmail.com';
+
 //Script Foreach
 $c = true;
 if ( $method === 'POST' ) {
